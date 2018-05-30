@@ -106,7 +106,7 @@
 										<li>
 											{% for msg in messages %}	
 												<a rel="nofollow" href="/Messages/viewConversation&amp;view_conversation={{msg.id}}&amp;subject={{msg.subject}}" class="dropdown-item d-flex"> 
-													<div class="msg-profile"><img {% if msg.profile_picture != null %}src="{{ msg.profile_picture }}"{% else %}src="/img/avatar-1.png"{% endif %} alt="..." class="img-fluid rounded-circle"></div>
+													<div class="msg-profile"><img src="/img/avatar-1.png" alt="..." class="img-fluid rounded-circle"></div>
 													<div class="msg-body">
 														<h3 class="h5">{{msg.subject}}</h3><span>{{msg.fname}} {{msg.lname}}</span><small>{{msg.last_reply | date('M d h:i a')}}</small>
 													</div>
