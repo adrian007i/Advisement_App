@@ -41,7 +41,7 @@
 					<li id="{{msg.id}}" class="contact">
 						<a class="view-message" href="/Messages/viewConversation&amp;view_conversation={{msg.id}}&amp;subject={{msg.subject}}">
 							<div class="wrap">
-								<img {% if msg.profile_picture != null %}src="{{ msg.profile_picture }}"{% else %}src="/img/avatar-1.png"{% endif %} alt="user image here" />
+								<img src="/img/avatar-1.png" alt="user image here" />
 								<div class="meta">
 									<p class="name {% if msg.unread == 1 %}unread{% endif %}">{{msg.subject}} {{msg.f_name}}
 									</p>
