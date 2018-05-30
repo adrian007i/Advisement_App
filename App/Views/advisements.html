@@ -1,0 +1,308 @@
+{% extends "base.html" %}
+{% block title %}Advisement{% endblock %}
+
+{#
+    actions for student:
+
+        add course              - only when semester open
+        edit, remove course     - only when semester open and course unapproved  
+        
+        add, remove their own chat for advisement - only when open
+
+    actions for advisor:
+
+        add, edit, remove, course code on advisement - only when advisement open
+        approve or unapprove course code - when advisement open
+    
+        add, remove their own chat for advisement - only when open 
+
+    
+
+#}
+
+
+{% block body %}
+<h1 style="margin-top: 50px" class="text-center">Advisement</h1>
+
+<div class="row p-5" style="border: 1px solid #F0F0F0;">
+    
+    {# Left column with semester list #}
+    <div class="col-3 ">
+        <div class="list-group" id="list-tab" role="tablist" style="width: 180px;">
+            {% for adv in advisements %}
+                <a class="list-group-item list-group-item-action {% if loop.first %}active{% endif %}" 
+                   id="list-{{adv.semester_id}}-list" data-toggle="list" 
+                   href="#list-{{adv.semester_id}}" role="tab" aria-controls="semester">
+                    <small>SEMESTER</small> {{adv.semester_id}}
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+    
+    {# Right column with each semester details #}
+    <div class="col-8 pl-5" style="border-left: 1px solid #F0F0F0;">
+        <div class="tab-content" id="nav-tabContent">
+            {% for adv in advisements %}
+                <div class="tab-pane fade show {% if loop.first %}active{% endif %}" id="list-{{adv.semester_id}}" role="tabpanel" aria-labelledby="list-{{adv.semester_id}}-list">
+                     
+                    <div class="row">
+                        <div class="col-6">
+                            <p>Semester Period</p>
+                        </div>
+                        <div class="col-6">
+                            <p style="text-align: right">{%if adv.is_open%} <strong class="alert alert-sm alert-success "> Advisment is open </strong> {% else %}<strong class="alert alert-danger">Advisment is closed</strong>  {% endif %}</p>
+                        </div>
+                    </div>
+                    <h3>{{adv.date_begin }} to {{ adv.date_end}}</h3>
+                    
+                    
+                    
+                    {% if adv.is_open and user.role_name == 'Advisor' and adv.is_dirty %}
+                        <div class="card card-body">
+                            <p style="color:#ff4444;"><strong>! Needs Attention !</strong></p>
+                            <form method="Post" action="/advisements/clear-dirty" class="form-course-remove">
+                                    <input type="hidden" name="edit_advisement_id" value="{{adv.advisement_id}}">
+                                    <input type="hidden" name="new_student" value="{{adv.student}}">
+                                    <div class="form-group">
+                                        <input style="width: 75px;" type="submit" value="Clear" class="btn btn-success mt-1">
+                                    </div>
+                            </form>
+                            </div>
+                    {% endif %}
+                    
+                    
+                    
+                    <hr style="margin-bottom: 10px;">
+                    
+                    
+                    {% for c in adv.advised_courses %}
+                    
+                    <p style="margin-top: 15px;margin-bottom: 15px;">{{c.course_code}}, {{c.course_name}} <small><strong>{% if c.approved == 0 %}- NOT APPROVED{% else %}- APPROVED{% endif %}</strong></small></p>
+
+                    {# if advisment open, only then can you edit etc... #}
+
+                    {% if adv.is_open %}
+                    <div>
+                        {% if (user.role_name == 'Student' and c.approved == 0) or user.role_name == 'Advisor' %}
+                            <button style="width: 75px;" class="btn btn-success btn-md " type="button" data-toggle="collapse" data-target="#edit-course-{{c.course_code|replace({' ':_,})}}" aria-expanded="false" aria-controls="edit-course-{{c.course_code|replace({' ':_,})}}">
+                                Edit
+                            </button>
+                            <button style="width: 75px;"class="btn btn-danger btn-md " type="button" data-toggle="collapse" data-target="#remove-course-{{c.course_code|replace({' ':_,})}}" aria-expanded="false" aria-controls="edit-course-{{c.course_code|replace({' ':_,})}}">
+                                Remove
+                            </button>
+                        {% endif %}
+
+                        {% if user.role_name == 'Advisor' and c.approved == 0 %}
+                            <button style="width: 75px;" class="btn btn-primary btn-md " type="button" data-toggle="collapse" data-target="#approve-course-{{c.course_code|replace({' ':_,})}}" aria-expanded="false" aria-controls="edit-course-{{c.course_code|replace({' ':_,})}}">
+                                Approve
+                            </button>
+                        {% endif %}
+
+                    </div>
+                    
+                    <hr>
+                        
+                    <div class="collapse" id="edit-course-{{c.course_code|replace({' ':_,})}}">
+                        <div class="card card-body ">
+                            {% if adv.is_open %}
+                                <form method="Post" action="/advisements/update-course" class="form-course-edit" id="form-{{c.course_code|replace({' ':_,})}}-edit">
+                                    <div class="form-group-material">
+                                        <input id="new_course" type="text" name="new_course" class="input-material">
+                                        <label for="new_course" class="label-material" id="changeCourseLabel">Course Code</label>
+                                        <br><small class="error-holder"></small>
+                                    </div>
+                                    <input type="hidden" name="new_advisement_id" value="{{adv.advisement_id}}">
+                                    <input type="hidden" name="old_course" value="{{c.course_code}}">
+                                    <input type="hidden" name="new_student" value="{{adv.student}}">
+                                    <div class="form-group">
+                                        <input style="width: 75px;" type="submit" value="Submit" class="btn btn-success mt-1">
+                                    </div>
+                                </form>
+                            {% else %}
+                                <p>Course Locked</p>
+                            {% endif %}
+                        </div>
+                        <hr>
+                    </div>
+                    
+                    <div class="collapse" id="remove-course-{{c.course_code|replace({' ':_,})}}">
+                        <div class="card card-body">
+                            {% if adv.is_open %}
+                                <form method="Post" action="/advisements/remove-course" class="form-course-remove">
+                                    <div class="form-group-material">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" name="radioRemove" id="radioYes" value="Yes">
+                                            <label class="form-check-label" for="radioYes">
+                                                Yes
+                                            </label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" name="radioRemove" id="radioNo" value="No">
+                                            <label class="form-check-label" for="exampleRadios2">
+                                                No
+                                            </label>
+                                            <small class="error-holder"></small>
+                                        </div>
+                                        <input type="hidden" name="edit_advisement_id" value="{{adv.advisement_id}}">
+                                        <input type="hidden" name="courseCode" value="{{c.course_code}}">
+                                        <input type="hidden" name="new_student" value="{{adv.student}}">
+                                        <div class="form-group">
+                                            <input style="width: 75px;" type="submit" value="Submit" class="btn btn-success mt-1">
+                                        </div>
+                                    </div>
+                                </form>
+                            {% else %}
+                                <p>Course Locked</p>
+                            {% endif %}
+                        </div>
+                        <hr>
+                    </div>
+
+                    <div class="collapse" id="approve-course-{{c.course_code|replace({' ':_,})}}">
+                        <div class="card card-body">
+                            {% if adv.is_open %}
+                                <form method="Post" action="/advisements/approve-course" class="form-course-approve">
+                                    <div class="form-group-material" id="input">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" name="radioRemove" id="radioYes" value="Yes">
+                                            <label class="form-check-label" for="radioYes">
+                                                Yes
+                                            </label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" name="radioRemove" id="radioNo" value="No">
+                                            <label class="form-check-label" for="exampleRadios2">
+                                                No
+                                            </label>
+                                            <small class="error-holder"></small>
+                                        </div>
+                                        <input type="hidden" name="edit_advisement_id" value="{{adv.advisement_id}}">
+                                        <input type="hidden" name="courseCode" value="{{c.course_code}}">
+                                        <input type="hidden" name="new_student" value="{{adv.student}}">
+                                        <div class="form-group">
+                                            <input style="width: 75px;" type="submit" value="Submit" class="btn btn-success mt-1">
+                                        </div>
+                                    </div>
+                                </form>
+                            {% else %}
+                                <p>Course Locked</p>
+                            {% endif %}
+                        </div>
+                        <hr>
+                    </div>
+
+                    {% endif %}
+                    {% endfor %}
+
+
+
+                    {# if advisment open, anybody can add a new course #}
+
+                    {% if adv.is_open %}
+                    <div>
+                        <button style="width: 90px;" class="btn btn-success" type="button" data-toggle="collapse" data-target="#add-{{adv.advisement_id}}" aria-expanded="false" aria-controls="add-{{adv.advisement_id}}">
+                            Add New
+                        </button>
+                        <hr>
+                        <div class="collapse" id="add-{{adv.advisement_id}}">
+                            <div class="card card-body">
+                                <form id="add-new-course-form" method="post" action="/advisements/new-course">
+                                    <h3>Add new Course</h3>
+                                    <div class="form-group-material">
+                                        <input id="new_course" type="text" name="new_course" class="input-material">
+                                        <label for="new_course" class="label-material" id="new_course_label">Course Code</label>
+                                        <br><small class="error-holder"></small>
+                                    </div>
+                                    {% if user.role_name == 'Advisor' %}
+                                    <div class="form-group-material">
+                                        <div class="form-check">
+                                          <input class="form-check-input" type="checkbox" value="yes" name="new_approved" id="new_approved">
+                                          <label class="form-check-label" for="new_approved">
+                                            Approved?
+                                          </label>
+                                        </div>
+                                    </div>
+                                    {% endif %}
+                                    <input type="hidden" name="new_advisement_id" value="{{adv.advisement_id}}">
+                                    <input type="hidden" name="new_student" value="{{adv.student}}">
+                                    <div class="form-group">
+                                        <input style="width: 75px;" type="submit" value="Submit" class="btn btn-success mt-1">
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                        
+                </div>
+            {% endfor %}
+
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}
+
+
+{% block final %}
+   
+    <script>
+        $(document).ready(function() {
+            
+            $("#add-new-course-form").validate({
+                
+                errorPlacement: function(error, element) {
+                    error.appendTo( element.parentsUntil('form', '.form-group-material').find('.error-holder') );
+                },
+                
+                rules: {
+                    new_course: {
+                        required: true,
+                        remote: '/validation/validate-course'
+                    }
+                },
+                
+                messages: {
+                    new_course: {
+                        required: 'Please enter a valid course.',
+                        remote: 'This course does not exist.'
+                    }
+                }
+                
+            }); // end validate
+            
+            {% for adv in advisements %} 
+            {% if adv.is_open %}
+            {% for c in adv.advised_courses %}
+                $("#form-{{c.course_code|replace({' ':_,})}}-edit").validate({
+
+                        
+                    errorPlacement: function(error, element) {
+                        error.appendTo( element.parentsUntil('form', '.form-group-material').find('.error-holder') );
+                    },
+                    
+                    rules: {
+                        new_course: {
+                            required: true,
+                            remote: '/validation/validate-course'
+                        }
+                    },
+
+                    messages: {
+                        new_course: {
+                            required: 'Please enter a valid course.',
+                            remote: 'This course does not exist.'
+                        }
+                    }
+
+                }); // end validate
+             
+            {% endfor %}
+            {% endif %}
+            {% endfor %}
+            
+        }); // end document ready
+    </script>
+
+{% endblock %}

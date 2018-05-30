@@ -1,0 +1,194 @@
+[28-May-2018 07:19:21 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:19:21 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\Core\Model.php(33): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(47): Core\Model::getDB()
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): App\Models\AdvisorList::getListByDept()
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Model.php' on line #33
+
+[28-May-2018 07:19:46 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:19:46 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Trying to get property 'user_id' of non-object'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(70): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(52): App\Models\AdvisorList::getDeptID(NULL)
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): App\Models\AdvisorList::getListByDept()
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #70
+
+[28-May-2018 07:19:49 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:19:49 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Trying to get property 'user_id' of non-object'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(70): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(52): App\Models\AdvisorList::getDeptID(NULL)
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): App\Models\AdvisorList::getListByDept()
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #70
+
+[28-May-2018 07:20:57 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:20:57 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Trying to get property 'user_id' of non-object'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(70): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(52): App\Models\AdvisorList::getDeptID(NULL)
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): App\Models\AdvisorList::getListByDept()
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #70
+
+[28-May-2018 07:21:06 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:21:06 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Trying to get property 'user_id' of non-object'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(70): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(52): App\Models\AdvisorList::getDeptID(NULL)
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): App\Models\AdvisorList::getListByDept()
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #70
+
+[28-May-2018 07:21:11 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:21:11 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Trying to get property 'user_id' of non-object'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(70): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(52): App\Models\AdvisorList::getDeptID(NULL)
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): App\Models\AdvisorList::getListByDept()
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #70
+
+[28-May-2018 07:21:16 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:21:16 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Trying to get property 'user_id' of non-object'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(70): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(52): App\Models\AdvisorList::getDeptID(NULL)
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): App\Models\AdvisorList::getListByDept()
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #70
+
+[28-May-2018 07:21:17 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:21:17 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Trying to get property 'user_id' of non-object'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(70): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(52): App\Models\AdvisorList::getDeptID(NULL)
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): App\Models\AdvisorList::getListByDept()
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #70
+
+[28-May-2018 07:21:21 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:21:21 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Trying to get property 'user_id' of non-object'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(70): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(52): App\Models\AdvisorList::getDeptID(NULL)
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): App\Models\AdvisorList::getListByDept()
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #70
+
+[28-May-2018 07:21:41 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:21:41 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Trying to get property 'user_id' of non-object'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(70): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php(52): App\Models\AdvisorList::getDeptID(NULL)
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): App\Models\AdvisorList::getListByDept()
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #70
+
+[28-May-2018 07:26:57 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:26:57 +0200
+Uncaught exception: 'Error'
+Message: 'Call to undefined method App\Models\AdvisorList::getDeptID()'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): App\Models\AdvisorList::getListByDept()
+#1 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#2 [internal function]: App\Controllers\Login->newAction()
+#3 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#5 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#6 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #52
+
+[28-May-2018 07:27:40 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:27:40 +0200
+Uncaught exception: 'ParseError'
+Message: 'syntax error, unexpected '}''
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Models\\Advi...')
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): spl_autoload_call('App\\Models\\Advi...')
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #85
+
+[28-May-2018 07:28:01 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:28:01 +0200
+Uncaught exception: 'ParseError'
+Message: 'syntax error, unexpected '}''
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Models\\Advi...')
+#2 C:\xampp\htdocs\Advisement_App-master\Core\View.php(41): spl_autoload_call('App\\Models\\Advi...')
+#3 C:\xampp\htdocs\Advisement_App-master\App\Controllers\Login.php(42): Core\View::render('login.html')
+#4 [internal function]: App\Controllers\Login->newAction()
+#5 C:\xampp\htdocs\Advisement_App-master\Core\Controller.php(56): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\Advisement_App-master\Core\Router.php(154): Core\Controller->__call('new', Array)
+#7 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\App\Models\AdvisorList.php' on line #85
+
+[28-May-2018 07:31:30 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:31:30 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('admin')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[28-May-2018 07:31:46 Europe/Berlin] Fatal Error occured at Mon, 28 May 2018 07:31:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('admin')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+

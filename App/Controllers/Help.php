@@ -12,8 +12,8 @@ class Help extends \Core\Controller {
     */
     
     
-    public function indexAction() {
-        View::render("Help/help.html");
+    public function viewAction() {
+        View::render("help.html");
     }
     
 

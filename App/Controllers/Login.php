@@ -57,10 +57,32 @@ class Login extends \Core\Controller {
         }
     }
     
-  
+    
+    /*
+        Logout from the website
+    */
+    public function LogoutAction() {
+        Auth::logout();
+        // redirect via another request
+        $this->redirect('/login/logout-complete');
+    }
+    
+    /*
+        redirect to home page when logged out
+        this is a second redirect which creates a new session
+        after the last session was destroyed by Auth::logout()
+        
+        If we didn't double redirect, then the flash message
+        would not be shown, it would have been destroyed.
+    */
+    public function logoutCompleteAction() {
+        
+        Flash::addMessage('You have just signed out');
+        
+        $this->redirect('/'); 
+    }
     
     
     
 }// end class
-
 ?>

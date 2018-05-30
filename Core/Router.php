@@ -140,9 +140,19 @@ class Router {
                 // get action and covert to camel case
                 $action = $this->convertToCamelCase($this->params['action']);
                 
+                // get id for action if exists
+                $id = null;
+                if (isset($this->params['id'])) {
+                    $id = $this->params['id']; 
+                }
+                
                 // if the method exists, then call it, otherwise.. error
                 if(is_callable([$controller_object, $action])) {
-                    $controller_object->$action();
+                    if ( $id != null )  {
+                        $controller_object->$action($id);
+                    } else {
+                        $controller_object->$action();
+                    }
                 } else {
                     throw new \Exception("Method $action (in controller $controller) not found", 404);
                 }

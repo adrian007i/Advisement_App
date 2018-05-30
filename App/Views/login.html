@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+
+{% block title %}Sign in{% endblock %}
+
+{% block body %}
+
+    {% if user.errors is not empty %}
+        {% for error in user.errors %}
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            {{error}}
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            </div>
+        {% endfor %}
+    {% endif %}
+
+	<div class="col-lg-6 log-page">
+		<div class="card">
+			<div class="card-header d-flex align-items-center">
+				<h4>Sign in</h4>
+			</div>
+            <div class="card-body">
+            	<form method="post" action="/login/create" id="formLogin">
+					<div class="form-group-material">
+						<input id="userid" type="text" name="user_id" required class="input-material" value="{{username}}">
+                        <label for="userid" class="label-material">User ID</label> 
+                        <small class="error-holder"></small>
+                    </div>
+                    <div class="form-group-material" id="input">    
+						<input id="inputpassword" type="password" name="password" required class="input-material">
+                        <label for="inputpassword" class="label-material" id="passwordLabel">Password</label>
+                        <small class="error-holder"></small>
+                    </div>
+					<div class="form-group text-right">
+                    	<div class="form-check">
+							<input type="checkbox" class="form-check-input" id="remember_me" name="remember_me" {% if remember_me %}checked="checked"{% endif %}>
+							<label class="form-check-label" for="remember_me">Remember me</label>
+                    	</div>
+                	</div>
+                    <div class="form-group">       
+                    	<input type="submit" value="Sign in" class="btn btn-primary">
+                    </div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+<!--	<div class="col-lg-6">
+		<h2>Advise Me</h2>
+		<p> Please login using your windows credentials <br />
+			i.e. the username and password you would use to access a PC on campus. <br/>
+            If you don't have one or you need a password reset, please contact our IT Helpdesk.
+		</p>
+	</div>-->
+{% endblock %}
+
+{% block final %}
+    <!-- validate js for this form and show hide password -->
+    <script src="/js/jquery.validate.js"></script>
+    <script src="/js/hideShowPassword.min.js"></script>
+    <!-- validation rules for validate js -->
+    <script>
+        $(document).ready(function() {
+            $("#formLogin").validate({
+                
+                errorPlacement: function(error, element) {
+                    error.appendTo( element.parentsUntil('form', '.form-group-material').find('.error-holder') );
+                },
+                
+                rules: {
+                    username: 'required',
+                    password: 'required'
+                }
+                
+                
+            }); // end validate
+            
+            $('#inputpassword').hideShowPassword(false, 'focus', {
+                toggle: {
+                    className: 'btn-nw btn-info'
+                }
+            }); 
+            
+        }); // end document ready
+    </script>
+{% endblock %}

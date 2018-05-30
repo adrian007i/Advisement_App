@@ -1,0 +1,687 @@
+[27-May-2018 00:00:00 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:00:00 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined variable: pendingapproval'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(31): Core\Error::errorHandler(8, 'Undefined varia...', '/Users/shaquill...', 31, Array)
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php' on line #31
+
+[27-May-2018 00:01:32 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:01:32 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(141): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(28): App\Models\Report::isApproved()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #141
+
+[27-May-2018 00:01:54 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:01:54 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Object of class App\Models\User could not be converted to string'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(4096, 'Object of class...', '/Users/shaquill...', 139, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(139): PDOStatement->bindParam(':advisor', 'Object', 2)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(28): App\Models\Report::isApproved()
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #139
+
+[27-May-2018 00:04:08 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:04:08 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(141): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(28): App\Models\Report::isApproved()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #141
+
+[27-May-2018 00:06:08 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:06:08 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.user_id AND approved = 0' at line 6'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(141): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(28): App\Models\Report::isApproved()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #141
+
+[27-May-2018 00:06:14 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:06:14 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'advisor.user_id' in 'where clause''
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(141): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(28): App\Models\Report::isApproved()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #141
+
+[27-May-2018 00:06:40 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:06:40 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 00:06:40 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:06:40 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 00:06:44 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:06:44 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 00:06:44 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:06:44 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 00:28:17 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:28:17 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 00:28:18 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:28:18 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 00:33:11 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:33:11 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined variable: sql'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(99): Core\Error::errorHandler(8, 'Undefined varia...', '/Users/shaquill...', 99, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(29): App\Models\Report::studentNotAdvisedYet()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #99
+
+[27-May-2018 00:33:45 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:33:45 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'semester_id DESC
+							LIMIT 1)' at line 10'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(118): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(29): App\Models\Report::studentNotAdvisedYet()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #118
+
+[27-May-2018 00:34:29 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:34:29 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined variable: stmt'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(114): Core\Error::errorHandler(8, 'Undefined varia...', '/Users/shaquill...', 114, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(29): App\Models\Report::studentNotAdvisedYet()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #114
+
+[27-May-2018 00:34:52 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:34:52 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'semester_id DESC
+							LIMIT 1)' at line 10'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(120): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(29): App\Models\Report::studentNotAdvisedYet()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #120
+
+[27-May-2018 00:40:28 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:40:28 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'semester_id DESC
+							LIMIT 1)' at line 10'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(120): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(29): App\Models\Report::studentNotAdvisedYet()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #120
+
+[27-May-2018 00:41:33 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 00:41:33 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'semester_id DESC
+							LIMIT 1)' at line 10'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(120): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(29): App\Models\Report::studentNotAdvisedYet()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #120
+
+[27-May-2018 02:14:11 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 02:14:11 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1 semester_id
+                            FROM semester
+                      ' at line 8'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(119): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(29): App\Models\Report::studentNotAdvisedYet()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #119
+
+[27-May-2018 02:29:49 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 02:29:49 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 02:29:49 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 02:29:49 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 02:29:52 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 02:29:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 02:29:52 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 02:29:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 02:29:56 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 02:29:56 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 02:29:56 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 02:29:56 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:19:36 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:19:36 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:19:36 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:19:36 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:37:09 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:37:09 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1 semester_id
+                            FROM semester
+                      ' at line 8'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(116): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(29): App\Models\Report::studentNotAdvisedYet()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #116
+
+[27-May-2018 03:37:53 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:37:53 +0200
+Uncaught exception: 'ParseError'
+Message: 'syntax error, unexpected '$advisor' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/Users/shaquill...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Models\\Repo...')
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): spl_autoload_call('App\\Models\\Repo...')
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #93
+
+[27-May-2018 03:38:02 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:38:02 +0200
+Uncaught exception: 'ParseError'
+Message: 'syntax error, unexpected '$advisor' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/Users/shaquill...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Models\\Repo...')
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): spl_autoload_call('App\\Models\\Repo...')
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #93
+
+[27-May-2018 03:41:51 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:41:51 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:41:51 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:41:51 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:43:46 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:43:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:43:46 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:43:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:44:06 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:44:06 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:44:06 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:44:06 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:44:36 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:44:36 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:44:36 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:44:36 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:45:04 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:45:04 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:45:04 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:45:04 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:45:16 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:45:16 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:45:17 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:45:17 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:46:13 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:46:13 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:46:13 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:46:13 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:46:47 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:46:47 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:46:47 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:46:47 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:46:52 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:46:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:46:52 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:46:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:47:27 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:47:27 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:47:27 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:47:27 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:48:41 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:48:41 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:48:42 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:48:42 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:48:46 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:48:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:48:46 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:48:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:48:57 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:48:57 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:48:57 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:48:57 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:49:24 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:49:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:49:24 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:49:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:49:38 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:49:38 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 03:49:38 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 03:49:38 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 04:05:50 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 04:05:50 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DISTINCT SELECT user_id, stu_fname,stu_lname,advisor
+					FROM student
+					JO' at line 1'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(37): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #37
+
+[27-May-2018 04:14:20 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 04:14:20 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 04:14:20 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 04:14:20 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 04:14:35 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 04:14:35 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 04:31:26 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 04:31:26 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 04:31:26 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 04:31:26 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[27-May-2018 04:37:24 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 04:37:24 +0200
+Uncaught exception: 'Twig_Error_Syntax'
+Message: 'Unexpected token "end of print statement" of value "".'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/ExpressionParser.php(92): Twig_ExpressionParser->parsePrimaryExpression()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/ExpressionParser.php(45): Twig_ExpressionParser->getPrimary()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(125): Twig_ExpressionParser->parseExpression()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TokenParser/For.php(40): Twig_Parser->subparse(Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(168): Twig_TokenParser_For->parse(Object(Twig_Token))
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TokenParser/Block.php(38): Twig_Parser->subparse(Array, true)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(168): Twig_TokenParser_Block->parse(Object(Twig_Token))
+#7 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(81): Twig_Parser->subparse(NULL, false)
+#8 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(533): Twig_Parser->parse(Object(Twig_TokenStream))
+#9 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(565): Twig_Environment->parse(Object(Twig_TokenStream))
+#10 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(368): Twig_Environment->compileSource(Object(Twig_Source))
+#11 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(328): Twig_Environment->loadTemplate('advisor.html')
+#12 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php(45): Twig_Environment->load('advisor.html')
+#13 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(33): Core\View::render('advisor.html', Array)
+#14 [internal function]: App\Controllers\Advisor->viewAction()
+#15 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#16 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#17 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#18 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Views/advisor.html' on line #91
+
+[27-May-2018 04:41:53 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 04:41:53 +0200
+Uncaught exception: 'Twig_Error_Syntax'
+Message: 'Unexpected token "punctuation" of value "," ("end of print statement" expected).'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(126): Twig_TokenStream->expect(4)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TokenParser/For.php(40): Twig_Parser->subparse(Array)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(168): Twig_TokenParser_For->parse(Object(Twig_Token))
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TokenParser/Block.php(38): Twig_Parser->subparse(Array, true)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(168): Twig_TokenParser_Block->parse(Object(Twig_Token))
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(81): Twig_Parser->subparse(NULL, false)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(533): Twig_Parser->parse(Object(Twig_TokenStream))
+#7 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(565): Twig_Environment->parse(Object(Twig_TokenStream))
+#8 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(368): Twig_Environment->compileSource(Object(Twig_Source))
+#9 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(328): Twig_Environment->loadTemplate('advisor.html')
+#10 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php(45): Twig_Environment->load('advisor.html')
+#11 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(33): Core\View::render('advisor.html', Array)
+#12 [internal function]: App\Controllers\Advisor->viewAction()
+#13 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#14 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#15 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#16 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Views/advisor.html' on line #193
+
+[27-May-2018 04:44:26 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 04:44:26 +0200
+Uncaught exception: 'Twig_Error_Runtime'
+Message: 'An exception has been thrown during the rendering of a template ("Object of class App\Models\User could not be converted to string").'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(378) : eval()'d code(111): Twig_Template->displayBlock('body', Array, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(394): __TwigTemplate_f4f7f948116fb48432d7ff48415f2824800290e600f7232ad63826872d7f26f2->doDisplay(Array, Array)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(371): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(378) : eval()'d code(30): Twig_Template->display(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(394): __TwigTemplate_60cbca4d58c839aab1d18e1c5395a61ffc6a87df31c92e39a2ef7cce821f39e0->doDisplay(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(371): Twig_Template->displayWithErrorHandling(Array, Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(379): Twig_Template->display(Array)
+#7 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TemplateWrapper.php(43): Twig_Template->render(Array)
+#8 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php(47): Twig_TemplateWrapper->render(Array)
+#9 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(33): Core\View::render('advisor.html', Array)
+#10 [internal function]: App\Controllers\Advisor->viewAction()
+#11 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#12 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#13 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#14 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Views/advisor.html' on line #197
+
+[27-May-2018 05:20:58 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 05:20:58 +0200
+Uncaught exception: 'Twig_Error_Runtime'
+Message: 'An exception has been thrown during the rendering of a template ("Array to string conversion").'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(378) : eval()'d code(111): Twig_Template->displayBlock('body', Array, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(394): __TwigTemplate_f4f7f948116fb48432d7ff48415f2824800290e600f7232ad63826872d7f26f2->doDisplay(Array, Array)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(371): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(378) : eval()'d code(30): Twig_Template->display(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(394): __TwigTemplate_60cbca4d58c839aab1d18e1c5395a61ffc6a87df31c92e39a2ef7cce821f39e0->doDisplay(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(371): Twig_Template->displayWithErrorHandling(Array, Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(379): Twig_Template->display(Array)
+#7 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TemplateWrapper.php(43): Twig_Template->render(Array)
+#8 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php(47): Twig_TemplateWrapper->render(Array)
+#9 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(33): Core\View::render('advisor.html', Array)
+#10 [internal function]: App\Controllers\Advisor->viewAction()
+#11 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#12 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#13 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#14 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Views/advisor.html' on line #120
+
+[27-May-2018 05:26:57 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 05:26:57 +0200
+Uncaught exception: 'Error'
+Message: 'Class 'App\AdvisorList' not found'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(33): Core\View::render('advisor.html', Array)
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php' on line #41
+
+[27-May-2018 05:28:31 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 05:28:31 +0200
+Uncaught exception: 'Twig_Error_Runtime'
+Message: 'An exception has been thrown during the rendering of a template ("Array to string conversion").'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(378) : eval()'d code(111): Twig_Template->displayBlock('body', Array, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(394): __TwigTemplate_f4f7f948116fb48432d7ff48415f2824800290e600f7232ad63826872d7f26f2->doDisplay(Array, Array)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(371): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(378) : eval()'d code(30): Twig_Template->display(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(394): __TwigTemplate_60cbca4d58c839aab1d18e1c5395a61ffc6a87df31c92e39a2ef7cce821f39e0->doDisplay(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(371): Twig_Template->displayWithErrorHandling(Array, Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(379): Twig_Template->display(Array)
+#7 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TemplateWrapper.php(43): Twig_Template->render(Array)
+#8 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php(48): Twig_TemplateWrapper->render(Array)
+#9 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(33): Core\View::render('advisor.html', Array)
+#10 [internal function]: App\Controllers\Advisor->viewAction()
+#11 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#12 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#13 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#14 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Views/advisor.html' on line #120
+
+[27-May-2018 05:30:55 Europe/Berlin] Fatal Error occured at Sun, 27 May 2018 05:30:55 +0200
+Uncaught exception: 'Error'
+Message: 'Class 'Models\AdvisorList' not found'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(33): Core\View::render('advisor.html', Array)
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php' on line #41
+

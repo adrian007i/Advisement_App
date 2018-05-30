@@ -8,6 +8,7 @@ use PDO;
 /*
     Semester Model
 */
+
 class Course extends \Core\Model {
 
     /*
@@ -30,9 +31,10 @@ class Course extends \Core\Model {
     
     
     /*
-        get semester for advisement
+        get Course by course code
     */
-    public static function findCourse($course_code) {
+    public static function findCourseByCode($course_code) {
+
         
         $sql = "
             SELECT * 
@@ -55,8 +57,41 @@ class Course extends \Core\Model {
     
     
     
+    /*
+        find if course exits in database 
+    */
+    public static function courseExists($course_code) {
+        return static::findCourseByCode($course_code)  !== false;        
+    }
     
     
+    /*
+        find if course already in advisement
+    */
+    public static function findCourseByAdvisement($course_code, $advisement_id) {
+        
+        $sql = "
+            SELECT * 
+            FROM advised_course
+            WHERE course_code = :course_code AND advisement_id = :advisement_id";
+        
+        $db = static::getDB();
+        $stmt = $db->prepare($sql);
+        
+        $stmt->bindParam(':course_code', $course_code, PDO::PARAM_STR);
+        $stmt->bindParam(':advisement_id', $advisement_id, PDO::PARAM_INT);
+        
+        //$stmt->setFetchMode(PDO::FETCH_CLASS, get_called_class());
+            
+        $stmt->execute();
+        
+        return $stmt->fetch();
+        
+    }
+    
+    public static function courseExistsInAdvisement($course_code, $advisement_id) {
+        return static::findCourseByAdvisement($course_code, $advisement_id)  !== false;        
+    }
     
     
 }// end class

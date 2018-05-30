@@ -1,0 +1,126 @@
+[20-May-2018 18:39:24 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:39:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('vendor/popper.j...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 18:39:24 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:39:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 18:39:24 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:39:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('vendor/popper.j...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 18:39:24 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:39:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 18:39:33 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:39:33 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('vendor/popper.j...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 18:39:33 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:39:33 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 18:40:53 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:40:53 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('admin')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 18:41:00 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:41:00 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('admin')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 18:41:04 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:41:04 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('admin')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 18:41:06 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:41:06 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 18:41:17 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:41:17 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 18:41:22 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 18:41:22 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 23:59:47 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 23:59:47 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('vendor/popper.j...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 23:59:47 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 23:59:47 +0200
+Uncaught exception: 'Exception'
+Message: 'Controller class App\Controllers\Home not found'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('home/advisement')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #161
+
+[20-May-2018 23:59:49 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 23:59:49 +0200
+Uncaught exception: 'Exception'
+Message: 'Controller class App\Controllers\Home not found'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('home/advisement')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #161
+
+[20-May-2018 23:59:49 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 23:59:49 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('vendor/popper.j...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 23:59:51 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 23:59:51 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[20-May-2018 23:59:51 Europe/Berlin] Fatal Error occured at Sun, 20 May 2018 23:59:51 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+

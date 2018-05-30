@@ -1,0 +1,112 @@
+[23-May-2018 00:03:04 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:03:04 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:03:04 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:03:04 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:03:05 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:03:05 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:03:05 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:03:05 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:03:41 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:03:41 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('admin')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:03:45 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:03:45 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('admin')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:04:18 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:04:18 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('login')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:04:20 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:04:20 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('admin')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:04:21 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:04:21 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:04:21 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:04:21 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:04:21 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:04:21 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:04:21 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:04:21 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:04:40 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:04:40 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:04:40 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:04:40 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:04:50 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:04:50 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
+[23-May-2018 00:04:50 Europe/Berlin] Fatal Error occured at Wed, 23 May 2018 00:04:50 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+

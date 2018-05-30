@@ -1,0 +1,281 @@
+{% extends "base.html" %}
+{% block title %}Advisement{% endblock %}
+
+{#
+    actions for advisor:
+
+        view and link to all student's advisement associated to advisor through their advisement
+        view and link to all student's advisement associated to advisor through their dept
+
+#}
+
+
+{% block body %}
+
+<h2 class="text-center">STUDENT LISTING</h1>
+
+
+<div class="row p-5" style="border: 1px solid #F0F0F0;">
+    <div class="col-3 ">
+        <div class="list-group" id="list-tab" role="tablist" style="width: 230px;">
+
+            <a class="list-group-item list-group-item-action active" id="list-1-list" data-toggle="list" href="#list-1" role="tab" >
+                <small><strong>CURRENT ADVISEES</strong></small>
+            </a>
+                <a class="list-group-item list-group-item-action " id="list-2-list" data-toggle="list" href="#list-2" role="tab" >
+                    <small><strong>ALL ADVISEES</strong></small>
+                </a>
+                <a class="list-group-item list-group-item-action " id="list-3-list" data-toggle="list" href="#list-3" role="tab" >
+                    <small><strong>DEPARTMENT STUDENTS </strong></small>
+                </a>
+                <a class="list-group-item list-group-item-action " id="list-4-list" data-toggle="list" href="#list-4" role="tab" >
+                    <small><strong>CHAT HISTORY </strong></small>
+                </a>
+
+                <a class="list-group-item list-group-item-action " id="list-6-list" data-toggle="list" href="#list-6" role="tab" >
+                    <small><strong>PENDING APPROVALS </strong></small>
+                </a>
+
+
+        </div>
+    </div>
+    <div class="col-8 pl-5" style="border-left: 1px solid #F0F0F0;">
+        <div class="tab-content" id="nav-tabContent">
+
+                <div class="tab-pane fade show active" id="list-1" role="tabpanel" aria-labelledby="list-1-list">
+
+                            <div id="search-error">
+
+                            </div>
+                            <div id="search">
+                                <input type="textbox" id="search-for">
+                                <button id="on-search-for">search</button>
+                                <button id="on-revert">revert</button>
+                            </div>
+                                <br>
+
+                            {% for s in dept_list %}
+                                {% if user.user_id == s.advisor %}
+                                <div class="card adv {{s.student}} {{s.stu_fname|lower}} {{s.stu_lname|lower}}">
+
+                                    <div class="card-body">
+
+                                        <p>
+
+                                            <a href="/advisements/{{s.student}}/view">{{s.student}}, {{s.stu_fname}} {{s.stu_lname}} - <small>SEMESTER </small>{{s.semester_id}}</a>
+                                            {% endif %}
+                                            {% if s.is_dirty %}
+                                                <span data-toggle="tooltip" data-placement="top" title="Changes have been made to this advisement" class="border rounded px-2 badge-danger">!</span>
+                                            {% endif %}
+                                            {% if s.advisor == user.user_id %}
+                                                <span data-toggle="tooltip" data-placement="top" title="Student's advisement belongs to you." class="border rounded px-2 badge-success">owned</span>
+
+                                        </p>
+
+                                    </div>
+
+                                </div>
+                                {% endif %}
+                            {% endfor %}
+
+
+
+
+
+                            {# to test performance of javascript search with high number of students, disable this twig comment...
+
+                            {% for i in range(0, 3000) %}
+                                <div class="card adv ">
+                                    <div class="card-body">
+                                        <p>
+                                            <a href="/advisements/00055873/view">{{}}00055873, Earl Tilluck</a>
+                                                <span data-toggle="tooltip" data-placement="top" title="Changes have been made to this advisement" class="border rounded px-2 badge-danger">!</span>
+                                                <span data-toggle="tooltip" data-placement="top" title="Student's advisement belongs to you." class="border rounded px-2 badge-success">owned</span>
+                                        </p>
+                                    </div>
+                                </div>
+
+                            {% endfor %}
+                            #}
+
+                </div>
+
+                <div class="tab-pane fade show " id="list-2" role="tabpanel" aria-labelledby="list-2-list">
+
+                    <!-- <div id="search-error">
+
+                    </div>
+                    <div id="search">
+                        <input type="textbox" id="search-for-2">
+                        <button id="on-search-for">search</button>
+                        <button id="on-revert">revert</button>
+                    </div> -->
+                    <br>
+                    {% for stu in fullListofStudents %}
+
+                        <div class="card adv {{stu.user_id}} {{stu.stu_fname|lower}} {{stu.stu_lname|lower}}">
+                            <div class="card-body">
+                                <p>
+                                    {{stu.user_id}}, {{stu.stu_fname}} {{stu.stu_lname}}
+                            
+                                </p>
+                            </div>
+                        </div>
+
+                    {% endfor %}
+
+
+                </div>
+                <div class="tab-pane fade show " id="list-3" role="tabpanel" aria-labelledby="list-3-list">
+
+
+
+                            <!-- <div id="search-error">
+
+                            </div>
+                            <div id="search">
+                                <input type="textbox" id="search-for">
+                                <button id="on-search-for">search</button>
+                                <button id="on-revert">revert</button>
+                            </div> -->
+                            <br>
+
+                            {% for deptstu in deptstudents %}
+
+                                <div class="card adv">
+                                    <div class="card-body">
+                                        <p>
+                                            {{deptstu.user_id}}, {{deptstu.stu_fname}} {{deptstu.stu_lname}}
+                                            <br>
+                                            <small><strong>PROGRAM NAME : </strong></small>{{deptstu.program_name}}
+                                            <br>
+                                            <small><strong>DEPARTMENT NAME : </strong></small>{{deptstu.dept_name}}
+                                            {% if deptstu.is_dirty %}
+                                                <span data-toggle="tooltip" data-placement="top" title="Changes have been made to this advisement" class="border rounded px-2 badge-danger"> !</span>
+                                            {% endif %}
+                                            {% if deptstu.advisor == user.user_id %}
+                                                <span data-toggle="tooltip" data-placement="top" title="Student's advisement belongs to you." class="border rounded px-2 badge-success"> owned</span>
+                                            {% endif %}
+
+                                        </p>
+                                    </div>
+                                </div>
+
+                            {% endfor %}
+
+                </div>
+
+                <div class="tab-pane fade show " id="list-4" role="tabpanel" aria-labelledby="list-4-list">
+
+
+
+                            <!-- <div id="search-error">
+
+                            </div>
+                            <div id="search">
+                                <input type="textbox" id="search-for">
+                                <button id="on-search-for">search</button>
+                                <button id="on-revert">revert</button>
+                            </div> -->
+    <br>
+                            {% for chistory in chathistory %}
+
+                                <div class="card adv " data-spy="scroll"  data-target="#myScrollspy"   style="position:relative">
+                                    <div class="card-body" >
+                                        <p>
+
+                                                <small><strong>SEMESTER ID : </strong></small>{{chistory.semester_id}}
+                                                <br>
+                                                <small><strong>POST DATE : </strong></small> {{chistory.post_date}}
+                                                <br>
+                                                 <small><strong>USER ID : </strong></small> {{chistory.user_id}}
+                                                <br>
+                                                <br>
+                                                <small><strong>CHAT CONTENT:</strong></small><br>
+                                                {{chistory.content}}
+
+
+                                        </p>
+                                    </div>
+                                </div>
+
+                            {% endfor %}
+
+                </div>
+
+                <div style="width:760px" class="tab-pane fade show " id="list-6" role="tabpanel" aria-labelledby="list-6-list">
+
+                            <table class="table">
+                              <thead>
+                                <tr>
+                                  <th>User ID</th>
+                                  <th>First Name</th>
+                                  <th>Surname</th>
+                                    <th>Course Code</th>
+                                    <th>Course Name</th>
+
+                                </tr>
+                              </thead>
+                              <tbody>
+                                      {% for pendingappl in pendingapproval %}
+                                <tr>
+
+                                  <td>{{pendingappl.user_id}}</td>
+                                  <td>{{pendingappl.stu_fname}}</td>
+                                  <td>{{pendingappl.stu_lname}}</td>
+                                  <td>{{pendingappl.course_code}}</td>
+                                  <td>{{pendingappl.course_name}}</td>
+
+
+
+                                </tr>
+                                 {% endfor %}
+
+                              </tbody>
+                            </table>
+                </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+{% endblock %}
+
+{% block final %}
+    <script>
+        $(document).ready(function() {
+
+            // toggle the tooltips (bootstrap)
+            $('[data-toggle="tooltip"]').tooltip();
+
+            // search for button, only shows links for input
+            $('#on-search-for').click(function()
+            {
+                val = $('#search-for').val();
+                if (val != '') {
+                    val = '.' + val.toLowerCase();
+                    $('.adv').hide();
+                    $(val).show();
+                } else {
+                    err = '<div class="alert alert-danger alert-dismissible fade show" role="alert">'
+                        + 'Please enter a student id or name when searching'
+                        + '<button type="button" class="close" data-dismiss="alert"'
+                        + 'aria-label="Close"><span aria-hidden="true">&times;</span></button></div>';
+                    $('#search-error').append(err);
+                }
+            });
+
+            // revert button, shows all content
+            $('#on-revert').click(function() {
+                $('.adv').show();
+            });
+
+
+        }); // end document ready
+    </script>
+
+{% endblock %}

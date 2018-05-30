@@ -10,7 +10,6 @@ use App\Flash;
 class Advisements extends Authenticated {
 
 
-    /*
        
     public function viewAction($user_id) {
         
@@ -23,12 +22,10 @@ class Advisements extends Authenticated {
             $this->redirect('/');
         } else {
             $advisements = Advisement::getAdvisements($user_id);
-            View::render('advisements.html', ['advisements' => $advisements]);
+            View::render('/advisements.html', ['advisements' => $advisements]);
         }
        
     }
-    */
-   
     
     
     /*
@@ -44,10 +41,64 @@ class Advisements extends Authenticated {
                 Flash::addMessage($error, Flash::DANGER);
             }
         }
-        $this->redirect('/home/advisement');
+
+        $this->redirect('/advisements/'.$advisement->new_student.'/view');
     }
     
+    
+    public function updateCourseAction() {
+        $advisement = new Advisement($_POST);
+        if ($advisement->updateCourse()) {
+            // nothing
+        } else {
+            foreach ($advisement->errors as $error) {
+                Flash::addMessage($error, Flash::DANGER);
+            }
+        }
+        $this->redirect('/advisements/'.$advisement->new_student.'/view');
+    }
    
+    public function removeCourseAction() {
+        $advisement = new Advisement($_POST);
+        if ($advisement->removeCourse()) {
+            // nothing
+        } else {
+            foreach ($advisement->errors as $error) {
+                Flash::addMessage($error, Flash::DANGER);
+            }
+        }
+        $this->redirect('/advisements/'.$advisement->new_student.'/view');
+    }
+    
+    
+    public function approveCourseAction()
+    {
+        $advisement = new Advisement($_POST);
+        if ($advisement->approveCourse()) {
+            // nothing
+        } else {
+            foreach ($advisement->errors as $error) {
+                Flash::addMessage($error, Flash::DANGER);
+            }
+        }
+        $this->redirect('/advisements/'.$advisement->new_student.'/view');
+
+    }
+    
+    public function clearDirtyAction()
+    {
+        $advisement = new Advisement($_POST);
+        if ($advisement->clearDirty()) {
+            // nothing
+        } else {
+            foreach ($advisement->errors as $error) {
+                Flash::addMessage($error, Flash::DANGER);
+            }
+        }
+        $this->redirect('/advisements/'.$advisement->new_student.'/view');
+
+    }
+
     
    
 }// end class

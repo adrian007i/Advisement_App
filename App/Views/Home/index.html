@@ -3,32 +3,60 @@
 {% block title %}Home{% endblock %}
 
 {% block body %}
-    <h1 class="text-center">Home page content</h1>
+	<div class="container">
+      <div id= "homeleft">
+         <h2>Tutorial on how to use ADVISE ME</h2>
+         <br/>
+         <iframe width="854" height="480" src="https://www.youtube.com/embed/2kMi6MfmGM8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+         <br/><br/>
+         <a href="#slide1" data-toggle="collapse"> <img id="menu1" src="/img/menuadrian.png"/></a> &nbsp;
+         <h2 style="display:inline">MEDIAS</h2>
+         <div id="slide1" class="collapse" >
+            <ul  class="links" style="display:inline">
+               <li> <a href="https://www.facebook.com/COSTAATT/"  target="_blank">  <img src="/img/costaatt.jpg" alt="c"/></a></li>
+               <li> <a href="https://www.facebook.com/COSTAATT/"  target="_blank">  <img src="/img/facebook.jpg" alt="fb"/></a></li>
+               <li><a  href="https://www.flickr.com/photos/costaatt/albums/"  target="_blank"><img src="/img/flickr.jpg" alt="fk"/></a></li>
+               <li><a  href="https://www.youtube.com/user/COSTAATTChannel"  target="_blank"> <img src="/img/youtube.jpg" alt="yt"/></a></li>
+               <li><a  href="https://twitter.com/costaatt1?lang=en"  target="_blank"><img src="/img/twitter.jpg" alt="twi"/></a></li>
+            </ul>
+         </div>
+         <hr/>
+         <a href="#slide2" data-toggle="collapse"> <img id="menu2" src="/img/menuadrian.png"/></a> &nbsp;
+         <h2 style="display:inline">SERVICIES</h2>
+         <div id="slide2" class="collapse">
+            <ul class="links" style="display:inline">
+               <li><a  href="https://neo.costaatt.edu.tt/moodle/"  target="_blank"> <img src="/img/eclassroom.png" alt="yt"/></a></li>
+               <li><a  href="https://selfservice.costaatt.edu.tt/pls/PROD/twbkwbis.P_GenMenu?name=homepage"  target="_blank"><img src="/img/banner.jpg" alt="twi"/></a></li>
+            </ul>
+         </div>
+		 <hr/>
+		 <a href="#slide3" data-toggle="collapse"><img id="menu3" src="/img/menuadrian.png"/></a> &nbsp;
+         <h2 style="display:inline">CALENDER</h2>
+		 <div id="slide3" class="collapse">
+		 		 <iframe src="https://calendar.google.com/calendar/embed?src=psu1b717g07ar7831q446f7jbs%40group.calendar.google.com&ctz=America%2FPort_of_Spain" 
+				 style="border: 0; padding-bottom:35px" width="70%" height="500px" frameborder="0" scrolling="no"></iframe>
 
-    <!--<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img class="d-block w-100" src=".../800x400?auto=yes&bg=777&fg=555&text=First slide" alt="First slide">
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100" src=".../800x400?auto=yes&bg=666&fg=444&text=Second slide" alt="Second slide">
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100" src=".../800x400?auto=yes&bg=555&fg=333&text=Third slide" alt="Third slide">
-        </div>
+         </div>
       </div>
-      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>-->
+      <div id="homeright">
+         <p>
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCOSTAATT%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+               width="100%" height="500" style="border:none;overflow:hidden" 
+               scrolling="no" frameborder="1" allowTransparency="true" allow="encrypted-media"></iframe>
+         </p>
+		 <br/>
+		 <ul id="contactt">
+				<li>COSTAATT<a href="#"><a/></li>
+				<li>9-11 Melville Ln, Port of Spain<a href="#"><a/></li>
+				<li>Phone: <a href="(868) 625-5030">(868) 625-5030<a/></li>
+         </ul>
+		 
+		 
+      </div>
+      
+	  </div>
+{% endblock %}
+
+{% block final %}
+
 {% endblock %}

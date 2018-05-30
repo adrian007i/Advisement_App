@@ -1,0 +1,2816 @@
+[26-May-2018 13:10:56 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:10:56 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:10:57 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:10:57 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:11:00 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:11:00 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:11:00 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:11:00 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:12:26 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:12:26 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:12:27 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:12:27 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:12:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:12:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('admin')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:13:01 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:13:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('admin')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:13:10 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:13:10 +0200
+Uncaught exception: 'Exception'
+Message: 'Controller class App\Controllers\Signup not found'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('signup/success')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #161
+
+[26-May-2018 13:13:11 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:13:11 +0200
+Uncaught exception: 'Exception'
+Message: 'Controller class App\Controllers\Signup not found'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('signup/new')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #161
+
+[26-May-2018 13:13:26 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:13:26 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('admin')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:13:27 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:13:27 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:13:27 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:13:27 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:13:39 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:13:39 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:13:40 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:13:40 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:14:02 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:14:02 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:14:02 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:14:02 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:15:13 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:15:13 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:15:13 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:15:13 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:15:57 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:15:57 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:15:57 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:15:57 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:16:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:16:09 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:16:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:16:09 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:19:25 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:19:25 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:19:25 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:19:25 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:19:25 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:19:25 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('apple-touch-ico...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:19:25 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:19:25 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('apple-touch-ico...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:19:53 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:19:53 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:20:37 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:20:37 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:20:37 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:20:37 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:20:51 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:20:51 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:25:02 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:25:02 +0200
+Uncaught exception: 'Twig_Error_Syntax'
+Message: 'Unexpected "endif" tag (expecting closing tag for the "for" tag defined near line 49).'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TokenParser/For.php(40): Twig_Parser->subparse(Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(168): Twig_TokenParser_For->parse(Object(Twig_Token))
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(168): Twig_TokenParser_If->parse(Object(Twig_Token))
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TokenParser/For.php(40): Twig_Parser->subparse(Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(168): Twig_TokenParser_For->parse(Object(Twig_Token))
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TokenParser/Block.php(38): Twig_Parser->subparse(Array, true)
+#7 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(168): Twig_TokenParser_Block->parse(Object(Twig_Token))
+#8 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(81): Twig_Parser->subparse(NULL, false)
+#9 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(533): Twig_Parser->parse(Object(Twig_TokenStream))
+#10 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(565): Twig_Environment->parse(Object(Twig_TokenStream))
+#11 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(368): Twig_Environment->compileSource(Object(Twig_Source))
+#12 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(328): Twig_Environment->loadTemplate('advisements.htm...')
+#13 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php(45): Twig_Environment->load('advisements.htm...')
+#14 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(26): Core\View::render('advisements.htm...', Array)
+#15 [internal function]: App\Controllers\Advisements->viewAction('00055873')
+#16 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#17 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(152): Core\Controller->__call('view', Array)
+#18 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/000...')
+#19 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Views/advisements.html' on line #78
+
+[26-May-2018 13:25:34 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:25:34 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:25:34 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:25:34 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:26:39 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:26:39 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:26:39 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:26:39 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:28:41 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:28:41 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:28:42 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:28:42 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:30:24 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:30:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:30:24 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:30:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:30:30 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:30:30 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:33:34 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:33:34 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:33:34 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:33:34 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:35:38 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:35:38 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:35:38 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:35:38 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:36:05 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:36:05 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:36:05 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:36:05 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:36:23 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:36:23 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:36:24 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:36:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:36:53 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:36:53 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:36:53 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:36:53 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:42:45 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:42:45 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:42:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:42:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:43:04 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:43:04 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:43:04 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:43:04 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:43:06 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:43:06 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:43:06 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:43:06 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:11 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:11 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:11 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:11 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:13 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:13 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:13 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:13 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:17 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:17 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:17 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:17 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:32 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:32 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:32 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:32 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:39 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:39 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:39 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:39 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:50 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:50 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:50 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:50 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:52 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:52 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:55 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:55 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:45:55 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:45:55 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:47:19 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:47:19 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:47:20 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:47:20 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:47:32 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:47:32 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:47:32 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:47:32 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:47:41 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:47:41 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:47:41 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:47:41 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:47:52 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:47:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:47:52 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:47:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:47:58 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:47:58 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:47:58 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:47:58 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:48:06 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:48:06 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:48:06 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:48:06 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:48:23 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:48:23 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:48:24 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:48:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:49:00 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:49:00 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:49:00 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:49:00 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:53:34 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:53:34 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:53:35 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:53:35 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:53:43 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:53:43 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined property: App\Models\Advisement::$radioRemove'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php(186): Core\Error::errorHandler(8, 'Undefined prope...', '/Users/shaquill...', 186, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(78): App\Models\Advisement->approveCourse()
+#2 [internal function]: App\Controllers\Advisements->approveCourseAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('approveCourse', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/app...')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php' on line #186
+
+[26-May-2018 13:53:45 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:53:45 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:53:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:53:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:53:48 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:53:48 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 13:53:48 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 13:53:48 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:01:57 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:01:57 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:01:57 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:01:57 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:02:08 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:02:08 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined property: App\Models\Advisement::$radioApprove'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php(186): Core\Error::errorHandler(8, 'Undefined prope...', '/Users/shaquill...', 186, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(78): App\Models\Advisement->approveCourse()
+#2 [internal function]: App\Controllers\Advisements->approveCourseAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('approveCourse', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/app...')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php' on line #186
+
+[26-May-2018 14:03:53 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:03:53 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:03:53 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:03:53 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:03:54 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:03:54 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:03:54 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:03:54 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:03:55 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:03:55 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined property: App\Models\Advisement::$radioApprove'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php(186): Core\Error::errorHandler(8, 'Undefined prope...', '/Users/shaquill...', 186, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(78): App\Models\Advisement->approveCourse()
+#2 [internal function]: App\Controllers\Advisements->approveCourseAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('approveCourse', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/app...')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php' on line #186
+
+[26-May-2018 14:04:30 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:04:30 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:04:30 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:04:30 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:04:31 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:04:31 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:04:32 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:04:32 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:04:33 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:04:33 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined property: App\Models\Advisement::$radioApprove'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php(186): Core\Error::errorHandler(8, 'Undefined prope...', '/Users/shaquill...', 186, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(78): App\Models\Advisement->approveCourse()
+#2 [internal function]: App\Controllers\Advisements->approveCourseAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('approveCourse', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/app...')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php' on line #186
+
+[26-May-2018 14:05:21 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:05:21 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:05:21 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:05:21 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:05:22 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:05:22 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:05:23 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:05:23 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:05:24 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:05:24 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined property: App\Models\Advisement::$radioApprove'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php(186): Core\Error::errorHandler(8, 'Undefined prope...', '/Users/shaquill...', 186, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(78): App\Models\Advisement->approveCourse()
+#2 [internal function]: App\Controllers\Advisements->approveCourseAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('approveCourse', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/app...')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php' on line #186
+
+[26-May-2018 14:06:19 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:06:19 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:06:20 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:06:20 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:06:25 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:06:25 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined property: App\Models\Advisement::$radioUnapproved'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php(221): Core\Error::errorHandler(8, 'Undefined prope...', '/Users/shaquill...', 221, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(92): App\Models\Advisement->unapprovedCourse()
+#2 [internal function]: App\Controllers\Advisements->unapprovedCourseAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('unapprovedCours...', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/una...')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php' on line #221
+
+[26-May-2018 14:06:28 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:06:28 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:06:28 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:06:28 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:07:53 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:07:53 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:07:53 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:07:53 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:07:55 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:07:55 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined property: App\Models\Advisement::$radioApprove'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php(186): Core\Error::errorHandler(8, 'Undefined prope...', '/Users/shaquill...', 186, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(78): App\Models\Advisement->approveCourse()
+#2 [internal function]: App\Controllers\Advisements->approveCourseAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('approveCourse', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/app...')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php' on line #186
+
+[26-May-2018 14:07:59 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:07:59 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:07:59 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:07:59 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:08:43 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:43 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:08:43 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:43 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:08:45 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:45 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined property: App\Models\Advisement::$radioApprove'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php(186): Core\Error::errorHandler(8, 'Undefined prope...', '/Users/shaquill...', 186, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(78): App\Models\Advisement->approveCourse()
+#2 [internal function]: App\Controllers\Advisements->approveCourseAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('approveCourse', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/app...')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php' on line #186
+
+[26-May-2018 14:08:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:08:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:08:47 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:47 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined property: App\Models\Advisement::$radioUnapproved'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php(229): Core\Error::errorHandler(8, 'Undefined prope...', '/Users/shaquill...', 229, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(92): App\Models\Advisement->unapprovedCourse()
+#2 [internal function]: App\Controllers\Advisements->unapprovedCourseAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('unapprovedCours...', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/una...')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php' on line #229
+
+[26-May-2018 14:08:48 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:48 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:08:48 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:48 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:08:55 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:55 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:08:55 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:55 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:08:57 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:57 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined property: App\Models\Advisement::$radioApprove'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php(186): Core\Error::errorHandler(8, 'Undefined prope...', '/Users/shaquill...', 186, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(78): App\Models\Advisement->approveCourse()
+#2 [internal function]: App\Controllers\Advisements->approveCourseAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('approveCourse', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/app...')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php' on line #186
+
+[26-May-2018 14:08:58 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:58 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:08:58 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:08:58 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:09:00 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:09:00 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined property: App\Models\Advisement::$radioUnapproved'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php(229): Core\Error::errorHandler(8, 'Undefined prope...', '/Users/shaquill...', 229, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php(92): App\Models\Advisement->unapprovedCourse()
+#2 [internal function]: App\Controllers\Advisements->unapprovedCourseAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('unapprovedCours...', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/una...')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Advisement.php' on line #229
+
+[26-May-2018 14:09:01 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:09:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:09:01 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:09:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:09:02 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:09:02 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:09:02 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:09:02 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:17:14 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:17:14 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:17:14 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:17:14 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:35:11 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:35:11 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:35:11 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:35:11 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:35:16 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:35:16 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:35:16 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:35:16 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:36:22 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:36:22 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:36:22 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:36:22 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:37:03 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:37:03 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:38:38 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:38:38 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 14:38:38 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 14:38:38 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 15:06:53 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 15:06:53 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 15:06:54 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 15:06:54 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:05:12 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:05:12 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:05:12 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:05:12 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:13:26 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:13:26 +0200
+Uncaught exception: 'Twig_Error_Syntax'
+Message: 'Unexpected token "end of print statement" of value "".'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/ExpressionParser.php(92): Twig_ExpressionParser->parsePrimaryExpression()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/ExpressionParser.php(45): Twig_ExpressionParser->getPrimary()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(125): Twig_ExpressionParser->parseExpression()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TokenParser/For.php(40): Twig_Parser->subparse(Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(168): Twig_TokenParser_For->parse(Object(Twig_Token))
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TokenParser/Block.php(38): Twig_Parser->subparse(Array, true)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(168): Twig_TokenParser_Block->parse(Object(Twig_Token))
+#7 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Parser.php(81): Twig_Parser->subparse(NULL, false)
+#8 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(533): Twig_Parser->parse(Object(Twig_TokenStream))
+#9 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(565): Twig_Environment->parse(Object(Twig_TokenStream))
+#10 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(368): Twig_Environment->compileSource(Object(Twig_Source))
+#11 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(328): Twig_Environment->loadTemplate('advisor.html')
+#12 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php(45): Twig_Environment->load('advisor.html')
+#13 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): Core\View::render('advisor.html', Array)
+#14 [internal function]: App\Controllers\Advisor->viewAction()
+#15 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#16 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#17 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#18 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Views/advisor.html' on line #47
+
+[26-May-2018 16:31:28 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:31:28 +0200
+Uncaught exception: 'ArgumentCountError'
+Message: 'Too few arguments to function App\Controllers\Advisements::viewAction(), 0 passed and exactly 1 expected'
+Stack trace: #0 [internal function]: App\Controllers\Advisements->viewAction()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/vie...')
+#4 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisements.php' on line #15
+
+[26-May-2018 16:31:33 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:31:33 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:31:33 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:31:33 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:35:32 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:35:32 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:35:32 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:35:32 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:35:50 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:35:50 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:35:57 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:35:57 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:36:13 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:36:13 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:37:02 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:37:02 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:42:36 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:42:36 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:44:01 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:44:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:44:01 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:44:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:44:07 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:44:07 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:44:41 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:44:41 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:44:41 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:44:41 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:46:05 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:46:05 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:46:05 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:46:05 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:47:24 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:47:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:47:24 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:47:24 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:47:37 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:47:37 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:47:42 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:47:42 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:47:42 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:47:42 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:47:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:47:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:47:47 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:47:47 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:48:06 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:48:06 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:48:06 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:48:06 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:49:42 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:49:42 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:49:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:49:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:49:52 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:49:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:56:07 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:56:07 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 16:56:07 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 16:56:07 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:09:03 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:09:03 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:09:03 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:09:03 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:50:36 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:50:36 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:50:36 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:50:36 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:52:11 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:52:11 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:52:12 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:52:12 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:52:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:52:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:52:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:52:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:52:53 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:52:53 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:52:53 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:52:53 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:53:08 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:53:08 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:53:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:53:09 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:55:36 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:55:36 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:55:37 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:55:37 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:57:37 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:57:37 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:57:37 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:57:37 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:58:14 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:58:14 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:58:14 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:58:14 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:58:48 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:58:48 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:58:48 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:58:48 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:58:50 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:58:50 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:58:50 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:58:50 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:59:04 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:59:04 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:59:04 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:59:04 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:59:27 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:59:27 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 17:59:27 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 17:59:27 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:00:11 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:00:11 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:00:11 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:00:11 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:00:52 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:00:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:00:52 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:00:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:01:06 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:01:06 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:01:06 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:01:06 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:01:51 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:01:51 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:01:51 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:01:51 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:01:56 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:01:56 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisements/')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:01:58 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:01:58 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:01:58 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:01:58 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:02:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:02:09 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:02:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:02:09 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:03:00 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:03:00 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:03:01 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:03:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:03:39 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:03:39 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:03:40 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:03:40 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:03:51 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:03:51 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:03:52 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:03:52 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:04:03 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:04:03 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:04:04 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:04:04 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:04:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:04:09 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:04:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:04:09 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:04:49 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:04:49 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:04:50 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:04:50 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:08:30 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:08:30 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:08:31 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:08:31 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:08:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:08:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:08:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:08:46 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:08:58 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:08:58 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:08:58 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:08:58 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:09:08 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:09:08 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:09:08 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:09:08 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:09:20 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:09:20 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:09:20 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:09:20 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:19:32 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:19:32 +0200
+Uncaught exception: 'Error'
+Message: 'Class 'App\Controllers\Report' not found'
+Stack trace: #0 [internal function]: App\Controllers\Advisor->viewAction()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#4 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php' on line #24
+
+[26-May-2018 18:21:08 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:21:08 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:21:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:21:09 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:21:10 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:21:10 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:21:10 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:21:10 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:21:11 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:21:11 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined variable: stmt'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(33): Core\Error::errorHandler(8, 'Undefined varia...', '/Users/shaquill...', 33, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #33
+
+[26-May-2018 18:22:12 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:22:12 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined variable: stmt'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(33): Core\Error::errorHandler(8, 'Undefined varia...', '/Users/shaquill...', 33, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #33
+
+[26-May-2018 18:23:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:23:09 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:23:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:23:09 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:23:11 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:23:11 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined variable: stmt'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(35): Core\Error::errorHandler(8, 'Undefined varia...', '/Users/shaquill...', 35, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #35
+
+[26-May-2018 18:24:22 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:24:22 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Object of class App\Models\User could not be converted to string'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(4096, 'Object of class...', '/Users/shaquill...', 35, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(35): PDOStatement->bindParam(':advisor', 'Object', 2)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #35
+
+[26-May-2018 18:58:07 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:58:07 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:58:07 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:58:07 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:58:08 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:58:08 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:58:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:58:09 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 18:58:09 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 18:58:09 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Object of class App\Models\User could not be converted to string'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(4096, 'Object of class...', '/Users/shaquill...', 37, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(37): PDOStatement->execute()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #37
+
+[26-May-2018 19:23:59 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 19:23:59 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 19:24:00 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 19:24:00 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 19:24:01 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 19:24:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 19:24:01 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 19:24:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 19:24:02 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 19:24:02 +0200
+Uncaught exception: 'Error'
+Message: 'Undefined class constant 'PARAM_OBJ''
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #35
+
+[26-May-2018 20:19:19 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:19:19 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 20:19:20 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:19:20 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 20:19:21 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:19:21 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 20:19:21 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:19:21 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 20:19:22 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:19:22 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(37): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #37
+
+[26-May-2018 20:20:00 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:20:00 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 20:20:00 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:20:00 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 20:36:04 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:36:04 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(37): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #37
+
+[26-May-2018 20:36:35 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:36:35 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 20:36:35 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:36:35 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 20:36:37 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:36:37 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 20:36:37 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:36:37 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 20:37:22 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 20:37:22 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(37): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #37
+
+[26-May-2018 21:07:39 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:07:39 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(37): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #37
+
+[26-May-2018 21:09:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:09:46 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Object of class App\Models\User could not be converted to string'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(4096, 'Object of class...', '/Users/shaquill...', 35, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(35): PDOStatement->bindParam(':advisor', 'Object', 2)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #35
+
+[26-May-2018 21:11:31 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:11:31 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Object of class App\Models\User could not be converted to string'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(4096, 'Object of class...', '/Users/shaquill...', 35, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(35): PDOStatement->bindParam(':advisor', 'Object', 2)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #35
+
+[26-May-2018 21:11:40 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:11:40 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Object of class App\Models\User could not be converted to string'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(4096, 'Object of class...', '/Users/shaquill...', 35, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(35): PDOStatement->bindParam(':advisor', 'Object', 2)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #35
+
+[26-May-2018 21:11:54 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:11:54 +0200
+Uncaught exception: 'Error'
+Message: 'Using $this when not in object context'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #35
+
+[26-May-2018 21:12:27 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:12:27 +0200
+Uncaught exception: 'Error'
+Message: 'Using $this when not in object context'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:12:54 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:12:54 +0200
+Uncaught exception: 'Error'
+Message: 'Using $this when not in object context'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:13:10 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:13:10 +0200
+Uncaught exception: 'ParseError'
+Message: 'syntax error, unexpected ':', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$''
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/Users/shaquill...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Models\\Repo...')
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): spl_autoload_call('App\\Models\\Repo...')
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:14:18 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:14:18 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined variable: stmt'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(34): Core\Error::errorHandler(8, 'Undefined varia...', '/Users/shaquill...', 34, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #34
+
+[26-May-2018 21:19:35 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:19:35 +0200
+Uncaught exception: 'Error'
+Message: 'Using $this when not in object context'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:19:43 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:19:43 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Use of undefined constant user_id - assumed 'user_id''
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(36): Core\Error::errorHandler(8, 'Use of undefine...', '/Users/shaquill...', 36, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:20:10 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:20:10 +0200
+Uncaught exception: 'Error'
+Message: 'Cannot pass parameter 2 by reference'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:23:03 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:23:03 +0200
+Uncaught exception: 'Error'
+Message: 'Using $this when not in object context'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:26:08 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:26:08 +0200
+Uncaught exception: 'Error'
+Message: 'Using $this when not in object context'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:29:27 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:29:27 +0200
+Uncaught exception: 'Error'
+Message: 'Class 'App\Models\Report' not found'
+Stack trace: #0 [internal function]: App\Controllers\Advisor->viewAction()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#4 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php' on line #25
+
+[26-May-2018 21:33:30 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:33:30 +0200
+Uncaught exception: 'Twig_Error_Loader'
+Message: 'Unable to find template "/" (looked into: /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Views).'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('/')
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('/')
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('/')
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(328): Twig_Environment->loadTemplate('/')
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php(45): Twig_Environment->load('/')
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(28): Core\View::render('/', Array)
+#6 [internal function]: App\Controllers\Advisor->viewAction()
+#7 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#8 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#9 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#10 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Loader/Filesystem.php' on line #226
+
+[26-May-2018 21:33:38 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:33:38 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Illegal offset type in isset or empty'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(180): Core\Error::errorHandler(2, 'Illegal offset ...', '/Users/shaquill...', 180, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate(Array)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey(Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass(Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(328): Twig_Environment->loadTemplate(Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php(45): Twig_Environment->load(Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(28): Core\View::render(Array)
+#7 [internal function]: App\Controllers\Advisor->viewAction()
+#8 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#9 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#10 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#11 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Loader/Filesystem.php' on line #180
+
+[26-May-2018 21:33:48 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:33:48 +0200
+Uncaught exception: 'ParseError'
+Message: 'syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')''
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/Users/shaquill...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers...')
+#2 [internal function]: spl_autoload_call('App\\Controllers...')
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(135): class_exists('App\\Controllers...')
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php' on line #28
+
+[26-May-2018 21:45:56 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:45:56 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Object of class App\Models\User could not be converted to string'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(4096, 'Object of class...', '/Users/shaquill...', 36, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(36): PDOStatement->bindParam(':advisor', 'Object', 2)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:46:12 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:46:12 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Use of undefined constant user_id - assumed 'user_id''
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(36): Core\Error::errorHandler(8, 'Use of undefine...', '/Users/shaquill...', 36, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:46:37 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:46:37 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Use of undefined constant user_id - assumed 'user_id''
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(36): Core\Error::errorHandler(8, 'Use of undefine...', '/Users/shaquill...', 36, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:47:58 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:47:58 +0200
+Uncaught exception: 'Error'
+Message: 'Using $this when not in object context'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:48:07 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:48:07 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Use of undefined constant advisor - assumed 'advisor''
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(36): Core\Error::errorHandler(8, 'Use of undefine...', '/Users/shaquill...', 36, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:49:38 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:49:38 +0200
+Uncaught exception: 'Error'
+Message: 'Using $this when not in object context'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #36
+
+[26-May-2018 21:53:58 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:53:58 +0200
+Uncaught exception: 'Error'
+Message: 'Using $this when not in object context'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorList()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #34
+
+[26-May-2018 21:57:37 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:57:37 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(59): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #59
+
+[26-May-2018 21:57:52 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:57:52 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Object of class App\Models\User could not be converted to string'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(4096, 'Object of class...', '/Users/shaquill...', 57, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(57): PDOStatement->bindParam(':advisor', 'Object', 2)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorDeptStudents()
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #57
+
+[26-May-2018 21:58:18 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:58:18 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(59): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #59
+
+[26-May-2018 21:58:18 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:58:18 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(59): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #59
+
+[26-May-2018 21:59:42 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 21:59:42 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(59): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #59
+
+[26-May-2018 22:02:32 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 22:02:32 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Object of class App\Models\User could not be converted to string'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(4096, 'Object of class...', '/Users/shaquill...', 135, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(135): PDOStatement->bindParam(':advisor', 'Object', 2)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::isApproved()
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #135
+
+[26-May-2018 22:02:45 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 22:02:45 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(137): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(25): App\Models\Report::isApproved()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #137
+
+[26-May-2018 22:03:35 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 22:03:35 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 22:03:35 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 22:03:35 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 22:32:27 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 22:32:27 +0200
+Uncaught exception: 'ParseError'
+Message: 'syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']''
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/Users/shaquill...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers...')
+#2 [internal function]: spl_autoload_call('App\\Controllers...')
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(135): class_exists('App\\Controllers...')
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php' on line #27
+
+[26-May-2018 22:33:16 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 22:33:16 +0200
+Uncaught exception: 'ParseError'
+Message: 'syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$''
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/Users/shaquill...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers...')
+#2 [internal function]: spl_autoload_call('App\\Controllers...')
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(135): class_exists('App\\Controllers...')
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php' on line #27
+
+[26-May-2018 22:55:49 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 22:55:49 +0200
+Uncaught exception: 'Twig_Error_Runtime'
+Message: 'An exception has been thrown during the rendering of a template ("Array to string conversion").'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(378) : eval()'d code(111): Twig_Template->displayBlock('body', Array, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(394): __TwigTemplate_f4f7f948116fb48432d7ff48415f2824800290e600f7232ad63826872d7f26f2->doDisplay(Array, Array)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(371): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Environment.php(378) : eval()'d code(30): Twig_Template->display(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(394): __TwigTemplate_60cbca4d58c839aab1d18e1c5395a61ffc6a87df31c92e39a2ef7cce821f39e0->doDisplay(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(371): Twig_Template->displayWithErrorHandling(Array, Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/Template.php(379): Twig_Template->display(Array)
+#7 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/vendor/twig/twig/lib/Twig/TemplateWrapper.php(43): Twig_Template->render(Array)
+#8 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/View.php(47): Twig_TemplateWrapper->render(Array)
+#9 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(27): Core\View::render('advisor.html', Array)
+#10 [internal function]: App\Controllers\Advisor->viewAction()
+#11 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#12 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#13 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#14 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Views/advisor.html' on line #110
+
+[26-May-2018 22:57:28 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 22:57:28 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 22:57:28 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 22:57:28 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php' on line #164
+
+[26-May-2018 23:14:56 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:14:56 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(61): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #61
+
+[26-May-2018 23:15:29 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:15:29 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(61): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #61
+
+[26-May-2018 23:15:39 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:15:39 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(61): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #61
+
+[26-May-2018 23:15:43 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:15:43 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(61): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #61
+
+[26-May-2018 23:16:20 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:16:20 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(61): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #61
+
+[26-May-2018 23:16:36 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:16:36 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(62): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #62
+
+[26-May-2018 23:17:07 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:17:07 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(62): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #62
+
+[26-May-2018 23:18:36 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:18:36 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Object of class App\Models\User could not be converted to string'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(4096, 'Object of class...', '/Users/shaquill...', 60, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(60): PDOStatement->bindParam(':advisor', 'Object', 2)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #60
+
+[26-May-2018 23:18:54 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:18:54 +0200
+Uncaught exception: 'Error'
+Message: 'Using $this when not in object context'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #60
+
+[26-May-2018 23:19:06 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:19:06 +0200
+Uncaught exception: 'Error'
+Message: 'Using $this when not in object context'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #60
+
+[26-May-2018 23:20:15 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:20:15 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(62): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #62
+
+[26-May-2018 23:20:57 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:20:57 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.user_id' at line 6'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(62): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #62
+
+[26-May-2018 23:24:46 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:24:46 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in field list is ambiguous'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(61): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(26): App\Models\Report::advisorDeptStudents()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #61
+
+[26-May-2018 23:26:42 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:26:42 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Undefined variable: deptstudents'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(29): Core\Error::errorHandler(8, 'Undefined varia...', '/Users/shaquill...', 29, Array)
+#1 [internal function]: App\Controllers\Advisor->viewAction()
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#5 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php' on line #29
+
+[26-May-2018 23:57:56 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:57:56 +0200
+Uncaught exception: 'ErrorException'
+Message: 'Object of class App\Models\User could not be converted to string'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(4096, 'Object of class...', '/Users/shaquill...', 139, Array)
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(139): PDOStatement->bindParam(':advisor', 'Object', 2)
+#2 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(28): App\Models\Report::isApproved()
+#3 [internal function]: App\Controllers\Advisor->viewAction()
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#6 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#7 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #139
+
+[26-May-2018 23:58:25 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:58:25 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(141): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(28): App\Models\Report::isApproved()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #141
+
+[26-May-2018 23:58:36 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:58:36 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(141): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(28): App\Models\Report::isApproved()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #141
+
+[26-May-2018 23:59:50 Europe/Berlin] Fatal Error occured at Sat, 26 May 2018 23:59:50 +0200
+Uncaught exception: 'PDOException'
+Message: 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined'
+Stack trace: #0 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php(141): PDOStatement->execute()
+#1 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Controllers/Advisor.php(28): App\Models\Report::isApproved()
+#2 [internal function]: App\Controllers\Advisor->viewAction()
+#3 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Controller.php(56): call_user_func_array(Array, Array)
+#4 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/Core/Router.php(154): Core\Controller->__call('view', Array)
+#5 /Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/public/index.php(74): Core\Router->dispatch('advisor/view')
+#6 {main}
+Thrown in '/Users/shaquilleantoine/localhost/AdvisementPage_AdvisorApp/App/Models/Report.php' on line #141
+

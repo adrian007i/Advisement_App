@@ -7,6 +7,7 @@ use \App\Models\User;
 use \App\Models\Advisement;
 use \App\Auth;
 use \App\Flash;
+use \App\Models\Degree;
 
 class Home extends Authenticated {
     

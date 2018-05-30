@@ -7,7 +7,7 @@
 	<div id="sidepanel">
 		<div id="profile">
 			<div class="wrap">
-				<img id="profile-img" src="/img/avatar-1.jpg" class="online" alt="" />
+				<img id="profile-img" {% if user.profile_picture != null %}src="{{ user.profile_picture }}"{% else %}src="/img/avatar-1.png"{% endif %} class="online" alt="" />
 				<p>{{ user.user_id }}</p>
 				<!--<i class="fa fa-chevron-down expand-button" aria-hidden="true"></i>-->
 				<div id="status-options">
@@ -41,7 +41,7 @@
 					<li id="{{msg.id}}" class="contact">
 						<a class="view-message" href="/Messages/viewConversation&amp;view_conversation={{msg.id}}&amp;subject={{msg.subject}}">
 							<div class="wrap">
-								<img src="/img/avatar-2.jpg" alt="user image here" />
+								<img {% if msg.profile_picture != null %}src="{{ msg.profile_picture }}"{% else %}src="/img/avatar-1.png"{% endif %} alt="user image here" />
 								<div class="meta">
 									<p class="name {% if msg.unread == 1 %}unread{% endif %}">{{msg.subject}} {{msg.f_name}}
 									</p>
@@ -59,7 +59,7 @@
 	<div class="content">
 		{% block messages %}
 		<div class="contact-profile">
-			<img src="/img/avatar-2.jpg" alt="" />
+			<img {% if user.profile_picture != null %}src="{{ user.profile_picture }}"{% else %}src="/img/avatar-1.png"{% endif %} alt="" />
 			<p>{{subject}}</p>
 		</div>
 
@@ -68,12 +68,12 @@
 				{% for messages in allMessages %}
 					{% if messages.username == user.f_name %}
 						<li class="replies">
-							<img src="/img/avatar-1.jpg" alt="" />
+							<img {% if user.profile_picture != null %}src="{{ user.profile_picture }}"{% else %}src="/img/avatar-1.png"{% endif %} alt="" />
 							<p><span>{{messages.text}} </span> <span class="date">{{messages.username}} {{ messages.date | date('h:i a')}}</span></p>
 						</li>
 						{% else %}
 						<li class="sent">
-							<img src="/img/avatar-2.jpg" alt="" />
+							<img {% if messages.profile_picture != null %}src="{{ messages.profile_picture }}"{% else %}src="/img/avatar-1.png"{% endif %} alt="" />
 							<p><span>{{messages.text}}</span> <span class="date">{{messages.username}} {{ messages.date | date('h:i a')}}</span></p>
 						</li>
 					{% endif %}
@@ -99,6 +99,12 @@
 
 {% block final %}
 <script>
+	{% for msg in messages %}
+		$('#{{msg.id}}').click(function(){
+			$(this).addClass( "active" );
+			$(this).siblings().removeClass("active");
+		});
+	{% endfor %}
 	
 $('.messages').scrollTop($('.messages')[0].scrollHeight);
 $(".messages").animate({ scrollTop: $(document).height() }, "fast");
@@ -134,28 +140,5 @@ $("#status-options ul li").click(function() {
 	
 	$("#status-options").removeClass("active");
 });
-/*
-function newMessage() {
-	message = $(".message-input input").val();
-	if($.trim(message) == '') {
-		return false;
-	}
-	$('<li class="sent"><img src="http://emilcarlsson.se/assets/mikeross.png" alt="" /><p>' + message + '</p></li>').appendTo($('.messages ul'));
-	$('.message-input input').val(null);
-	$('.contact.active .preview').html('<span>You: </span>' + message);
-	$(".messages").animate({ scrollTop: $(document).height() }, "fast");
-};
-
-$('.submit').click(function() {
-  newMessage();
-});
-
-$(window).on('keydown', function(e) {
-  if (e.which == 13) {
-    newMessage();
-    return false;
-  }
-});
-//# sourceURL=pen.js*/
 </script>
 {% endblock %}

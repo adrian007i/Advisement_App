@@ -1,0 +1,119 @@
+[17-May-2018 22:09:01 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:09:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:09:01 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:09:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:09:01 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:09:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:09:01 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:09:01 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:09:02 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:09:02 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:10:12 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:10:12 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:10:12 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:10:12 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:10:23 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:10:23 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:10:25 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:10:25 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:10:26 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:10:26 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:10:27 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:10:27 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:10:29 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:10:29 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:10:29 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:10:29 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:14:07 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:14:07 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:14:08 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:14:08 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:14:08 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:14:08 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+
+[17-May-2018 22:14:08 Europe/Berlin] Fatal Error occured at Thu, 17 May 2018 22:14:08 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 C:\xampp\htdocs\Advisement_App-master\public\index.php(74): Core\Router->dispatch('js/hideShowPass...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Advisement_App-master\Core\Router.php' on line #164
+

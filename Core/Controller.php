@@ -2,14 +2,15 @@
 
 namespace Core;
 
+use App\Auth;
+use \App\Flash;
+
 /*
     Base Controller
     
     Controllers created by developers will inherit this class
 
 */
-use \App\Auth;
-use \App\Flash;
 
 abstract class Controller {
 
@@ -17,7 +18,6 @@ abstract class Controller {
         Parameters from the matched route..
     */
     protected $route_params = [];
-    
     
     /*
         constructor: set the route_params var
@@ -94,7 +94,7 @@ abstract class Controller {
             
             Auth::rememberRequestedPage();
             
-            $this->redirect('/');
+            $this->redirect('/login/new');
         
         }
     }

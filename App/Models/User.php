@@ -439,9 +439,11 @@ class User extends \Core\Model {
 								conversations.conversation_subject,
 								conversation_members.user_id,
 								MAX(conversation_messages.message_date) AS conversation_last_reply,
-								MAX(conversation_messages.message_date) > conversation_members.conversation_last_view AS conversation_unread
+								MAX(conversation_messages.message_date) > conversation_members.conversation_last_view AS conversation_unread,
+								user.profile_picture
 								FROM conversations 
 								LEFT JOIN conversation_messages ON conversations.conversation_id = conversation_messages.conversation_id 
+								INNER JOIN user ON conversation_messages.user_id = user.user_id
 								INNER JOIN conversation_members ON conversations.conversation_id = conversation_members.conversation_id 
 								WHERE conversation_members.user_id = '$user'
 								AND conversation_members.conversation_deleted = 0
@@ -462,7 +464,8 @@ class User extends \Core\Model {
 					'subject' => $row['conversation_subject'],
 					'last_reply' => $row['conversation_last_reply'],
 					'user_id' => $row['user_id'],
-					'unread' => ($row['conversation_unread']== 1)
+					'unread' => ($row['conversation_unread']== 1),
+					'profile_picture' =>$row['profile_picture'],
 				);		
 		}
 		return $messages;		
@@ -528,7 +531,7 @@ class User extends \Core\Model {
 		$stmt = $db->query("SELECT conversation_messages.message_date,
 								conversation_messages.message_date > conversation_members.conversation_last_view AS message_unread,
 								conversation_messages.message_text,
-								user.f_name  AS user_names FROM conversation_messages
+								user.f_name  AS user_names, user.profile_picture FROM conversation_messages
 								INNER JOIN user ON conversation_messages.user_id = user.user_id
 								INNER JOIN conversation_members ON conversation_messages.conversation_id = conversation_members.conversation_id
 								WHERE conversation_messages.conversation_id = '$conversation_id'
@@ -546,7 +549,8 @@ class User extends \Core\Model {
 					'date' => $row['message_date'],
 					'unread' => $row['message_unread'],
 					'text' => $row['message_text'],
-					'username' => $row['user_names']
+					'username' => $row['user_names'],
+					'profile_picture' =>$row['profile_picture']
 				);		
 		}
 		return $messages;		

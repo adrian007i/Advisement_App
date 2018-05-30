@@ -1,0 +1,7 @@
+[21-May-2018 00:00:25 Europe/Berlin] Fatal Error occured at Mon, 21 May 2018 00:00:25 +0200
+Uncaught exception: 'Exception'
+Message: 'No route matched.'
+Stack trace: #0 /Users/shaquilleantoine/localhost/Advisement_App-master/public/index.php(74): Core\Router->dispatch('js/jquery.valid...')
+#1 {main}
+Thrown in '/Users/shaquilleantoine/localhost/Advisement_App-master/Core/Router.php' on line #164
+
